@@ -1,4 +1,4 @@
-package com.company.project.core;
+package com.dhl.cnnblogs.core;
 
 import tk.mybatis.mapper.common.BaseMapper;
 import tk.mybatis.mapper.common.ConditionMapper;
